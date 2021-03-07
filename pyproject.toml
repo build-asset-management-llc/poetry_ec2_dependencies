@@ -27,7 +27,7 @@ pandas = "^1.2.1"
 pandasql = "^0.7.3"
 paramiko = "^2.7.2"
 simple_salesforce = "^1.10.1"
-psycopg2 = "^2.8.6"
+psycopg2-binary = "^2.8.6"
 matplotlib = "^3.3.4"
 
 [tool.poetry.dev-dependencies]
