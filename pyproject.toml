@@ -29,6 +29,8 @@ paramiko = "^2.7.2"
 simple_salesforce = "^1.10.1"
 psycopg2-binary = "^2.8.6"
 matplotlib = "^3.3.4"
+jupyter = "^1.0.0"
+scipy = "^1.6.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
