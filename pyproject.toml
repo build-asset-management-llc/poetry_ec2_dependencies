@@ -40,6 +40,7 @@ sqlalchemy = "^1.4.0"
 sqlalchemy-redshift = "^0.8.2"
 DateTime = "^4.3"
 numpy = "^1.20.2"
+sklearn = "^0.0"
 
 
 [tool.poetry.dev-dependencies]
